@@ -1,0 +1,1 @@
+pyrobot -s RosStageSimulator -w ./followLine.world -r RosStage.py -b BrainFollowLine.py
